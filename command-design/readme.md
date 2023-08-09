@@ -1,1 +1,1 @@
-![Example Image](E:\Projects\LLD\command-design\command-pattern.png)
+![Example Image](command-design/command-pattern.png)
