@@ -1,1 +1,1 @@
-![Example Image](/command-pattern.png)
+![Example Image](/command-design/command-pattern.png)
